@@ -37,8 +37,8 @@
 <br>
 
 ## Invite Now
-[Click here to invite the bot.](https://bit.ly/anti-nsfw)
-[Support server](https://discord.gg/dkP9fwY)
+[Click here to invite the bot.](https://bit.ly/anti-nsfw) <br>
+[Do you have any questions? Ask here!](https://discord.gg/dkP9fwY)
 
 <br>
 
