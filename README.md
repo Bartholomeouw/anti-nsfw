@@ -40,25 +40,25 @@ Of course, not! Just invite it and the bot are ready to go!
 
 <br>
 
-### Commands
+## Commands
 [Click here to see full documentations.](https://discord-antinsfw.glitch.me)
 
 <br>
 
-### Discord-Wide
+## Discord-Wide
 [![Discord Boats](https://discord.boats/api/widget/663326517731917844)](https://discord.boats/bot/663326517731917844)
 [![Bots for Discord](https://botsfordiscord.com/api/bot/663326517731917844/widget)](https://botsfordiscord.com/bots/663326517731917844)
 [![Discord Bots](https://top.gg/api/widget/663326517731917844.svg)](https://top.gg/bot/663326517731917844)
 
 <br>
 
-### Invite Now
+## Invite Now
 [Click here to invite the bot.](https://bit.ly/anti-nsfw) <br>
 [Do you have any questions? Ask here!](https://discord.gg/dkP9fwY)
 
 <br>
 
-# Developer
+## Developer
 
 <table>
   <tr>
