@@ -1,37 +1,28 @@
 # Anti-NSFW
-### New Original Bot with Artificial Intelligence
+### A new way to protect your server from inappropriate content.
 
-A Discord Bot with Artificial Intelligence features that can detect photos or other media that contain pornography.
+> Our media scanning process is likely not always accurate as long as we use third-party applications (API) to scan or handle a lot of media. So bare with us if a rare issue arises.
 
-#### Fast Delete
+## Bot System
+#### Session
 
-While loading, the bot just instanteously snap it like a Thanos finger.
-
-![](https://cdn.discordapp.com/attachments/564265907459981343/663712106868244480/unknown.png?raw=true)
-
-<br>
-
-#### NSFW Channel? No thanks.
-
-Anti-NSFW will won't nod you on the NSFW channel.
-
-![](https://cdn.discordapp.com/attachments/564265907459981343/663712357046026270/unknown.png?raw=true)
+Interpretation: **When someone sending a NSFW content, the bot will instanteously delete it. No matter what.**
+![](https://gblobscdn.gitbook.com/assets%2F-Lz6bcAKSb2OlB58pmpJ%2F-LzAy43D2eoKG0g-VvW9%2F-LzAyWttYIkcCqqqPUz4%2F1.png?alt=media&token=f810a158-d6de-4404-9e00-b188601627a2)
 
 <br>
+#### NSFW Channel
 
-#### I just sent a link, bro! Why you delete it?!
-
-We know it. And, you can turn off it by using `a.nolink`.
-
-![](https://cdn.discordapp.com/attachments/564265907459981343/663712889990807562/unknown.png?raw=true)
+The bot doesn't care anything you do it in the channel that filtered with NSFW option.
+![](https://gblobscdn.gitbook.com/assets%2F-Lz6bcAKSb2OlB58pmpJ%2F-LzB-5IgU_hjq3h9jEWF%2F-LzB-YZ6XFWOV0_kqjho%2F2.png?alt=media&token=cb8efc18-16dd-41e5-85c3-e09b38d0e894)
 
 <br>
+#### Logging Session
+You can activate it, if you really care about your server. Use `a.log <#channel>` to activate it.
+![](https://gblobscdn.gitbook.com/assets%2F-Lz6bcAKSb2OlB58pmpJ%2F-LzB-5IgU_hjq3h9jEWF%2F-LzB23_DqsOPaKnnPVyf%2F4.png?alt=media&token=3fdd688e-5f8e-4e66-9aa5-ee58302b49d0)
 
-#### How to use this?
-
-You don't need to set up. Just invite the bot and Anti-NSFW are ready to go!
-
-![](https://cdn.discordapp.com/attachments/564265907459981343/663712106868244480/unknown.png?raw=true)
+<br>
+## Commands
+![Click here to see full documentations.](https://discord-antinsfw.glitch.me)
 
 <br>
 
@@ -42,10 +33,8 @@ You don't need to set up. Just invite the bot and Anti-NSFW are ready to go!
 
 <br>
 
-### Feel interesting? Enthuastic? What are you waiting for? Invite it!
-##### Make your server more safe!
-
-## [Invite Now :)](https://discordapp.com/api/oauth2/authorize?client_id=663326517731917844&permissions=126016&scope=bot)
+## Invite Now
+![Click here to invite the bot.](https://bit.ly/anti-nsfw)
 
 <br>
 
@@ -53,12 +42,8 @@ You don't need to set up. Just invite the bot and Anti-NSFW are ready to go!
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.discordapp.com/avatars/327586923252285440/220c3a9443a2c98a2fab68d9b22fe20d.png?size=2048" width="100px;" alt=""/><br /><sub><b>M. Fatir Kurniawan</b></sub><br /></td>
     <td align="center"><a href="http://r4y.glitch.me/"><img src="https://cdn.discordapp.com/avatars/331265944363991042/45d6719ca82b06511f4523d9158f18c3.png?size=2048" width="100px;" alt=""/><br /><sub><b>Hizkia Ray - Founder</b></sub></a><br /></td>
     <td align="center"><img src="https://cdn.discordapp.com/avatars/300577300242759682/9b7e01e81c8dbc881e674b087ffd8b29.png?size=2048" width="100px;" alt=""/><br /><sub><b>H29id</b></sub><br /></td>
     <tr>
 </table>
 <br>
-
-
-###### Primary permissions: Manage Messages, Embed Links, Send Messages. It wouldn't work, without of these permissions.
