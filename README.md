@@ -28,13 +28,17 @@
 #### Is there anything that I must set it?
 Of course, not! Just invite it and the bot are ready to go!
 
-<br>
-
 #### Why is it doesn't work?
-Check the bot permissions, or channels.
-If the channel was NSFW, it wouldn't work.
-If you tested a link, make sure it's deactivated.
+* Check the bot permissions, or channels.
+* If the channel was NSFW, it wouldn't work.
+* If you tested a link, make sure it's deactivated.
 
+#### The bot didn't react to NSFW imagery content.
+* It might be the bot is missing permissions (Manage Messages)
+* You are testing the bot in the channel that labeled with NSFW.
+* Maybe, the server is down. [Join into our support server to see the uptime bot.](https://discord.gg/dkP9fwY)
+
+<br>
 
 ### Commands
 [Click here to see full documentations.](https://discord-antinsfw.glitch.me)
