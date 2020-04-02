@@ -1,0 +1,89 @@
+{
+    "customtext": {
+        "default": "Don't post NSFW here, please.",
+        "default_successful": "Custom warning text has been restored to the original text.",
+        "invalid_text": "Insert the sentence.",
+        "invalid_reset": "Custom Warning Text has **already** been reset.",
+        "character_limit": "Maximum character is 512.",
+        "change_successful": "Custom warning text has been changed to {var}",
+        "unknown_permissions": "{user} doesn't have **Manage Server** permissions."
+    },
+
+    "customprob": {
+        "unknown_permissions": "{user} doesn't have **Manage Server** permissions.",
+        "less_than_50": "You can't set the NSFW sensitivity lower than 50 percent.",
+        "more_than_90": "You can't set the NSFW sensitivity more than 90 percent.",
+        "isnt_a_number": "Please input the number.",
+        "change_successful": "Custom NSFW sensitivity has been changed to **{var}%**",
+        "invalid_number": "The number you input is already existed."
+    },
+
+    "punishment": {
+        "unknown_permissions": "{user} doesn't have **Manage Server** permissions.",
+        "default_successful": "Server Punishment has been reset to Default.",
+        "invalid_reset": "Server Punishment was **already** disabled.",
+        "isnt_a_number":"Please input the number.",
+        "limit_options_msg": "Options: 1 - 10 (message)",
+        "limit_options_action": "Options: 1: Kick | 2: Ban",
+        "change_successful": "Server Punishment has been set to: [Action: {var1}] - [Limit (per-message): ${var2}]"
+    },
+
+    "faq": {
+        "title": "Popular Questions:",
+        "faq1_q": "Why is it doesn't work?",
+        "faq1_a": "Check the bot permissions/channels. Don't do it on channel filtered with NSFW options.",
+        "faq2_q": "The bot was not detect it.",
+        "faq2_a": "We're humans, keep improving this. Maybe you can try another one. Or it might be our server is down. Please DM ray#1337 if necessary.",
+        "faq3_q": "Can the log channel filtered with NSFW?",
+        "faq3_a": "**Yes.**",
+        "faq4_q": "How I can set the moderation logs?",
+        "faq4_a": "Use **a.log #channel**."
+    },
+
+    "help": {
+        "embed_description": "Type **{prefix}help [command] / @mention help [command]** to get more specific information about a command.",
+        "noalias": "No aliases provided.",
+        "nousage": "No usage provided.",
+        "noexample": "No example provided.",
+        "seconds": "Seconds",
+        "invalid": "Invalid command.",
+        "commandname": "command name"
+    },
+
+    "log": {
+        "unknown_permissions": "{user} doesn't have **Manage Guild / Channels** permission.",
+        "invalid_reset": "`There's no channel need to be removed.",
+        "default_successful": "Log channel has been erased.",
+        "invalid_channel": "Please input the channel.",
+        "change_successful": "{var} will be used to post an action from members such as posting NSFW."
+    },
+
+    "prefix": {
+        "unknown_permissions": "doesn't have **Manage Server** permissions.",
+        "invalid_reset": "The Server Prefix is already default.",
+        "invalid_prefix": "Insert the prefix.",
+        "change_successful": "Server Prefix changed to {var}"
+    },
+
+    "nsfwsession": {
+        "nudity_embed": "Nudity Predictions (probability)",
+        "kicked": "{user} has been kicked for: **Posting porn.**",
+        "banned": "{user} has been banned for: **Posting porn.**",
+        "postingporn": "Posting porn",
+        "cooldown": "Calm down. You need to wait **{var}** seconds to use the command again.",
+        "sender_log": "Sender",
+        "channel_log": "Channel"
+    },
+
+    "description": {
+        "punishment": "Sets a punishment.",
+        "customtext": "Change custom warning text such as **Don't post NSFW here.**",
+        "customprob": "Change NSFW sensitivity.",
+        "faq": "Frequently asked questions about Anti-NSFW.",
+        "help": "Show a command list from Anti-NSFW bot.",
+        "settings": "Display a server settings information.",
+        "stats": "Display Anti-NSFW statistics.",
+        "prefix": "Change Anti-NSFW server prefix.",
+        "log": "Display a mod-log in an existing channel when user post NSFW."
+    }
+}
