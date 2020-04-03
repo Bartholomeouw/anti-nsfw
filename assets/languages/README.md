@@ -6,8 +6,8 @@
 - Keep the overall feeling of the bot consistent with the english version.
 - Don't "paste old translations" into your translation file. All new translations will be added at the top of the category, which means - you can just paste from en_US the missing ones until the one you have. (and at the bottom of the command in the case of new command strings)
 - Keep the translation clean.
-- Don't remove or "translate" anything remotely like %1$s, %2$s or %<number>$s. More info
-- Don't change the formatting marks (**, *, etc). If a word is **like this** translate it **como esto**, for example.
+- Don't remove or "translate" anything remotely like {user}, {var} or anything.
+- Don't change the formatting marks (\*\*, \*, etc). If a word is \*\*like this\*\* translate it \*\*como esto\*\*, for example.
 - We're gonna review translation files before going to production, so no worries if something happens to go wrong we will point it out and assist you.
 - If you're unsure what a parameter is, you can try using the command or contact ray#1337.
 - You can contact ray#1337 on Discord if you're lost.
