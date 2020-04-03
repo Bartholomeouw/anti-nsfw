@@ -26,9 +26,9 @@
 
 ## If you are adding to an existing langauge:
 
-- Create a text document anywhere on your computer and rename it to "<the code of the language>.json" (i.e. for german de_DE.json). Yes that means the .txt becomes .json
+- Create a text document anywhere on your computer and rename it to "\<the code of the language\>.json" (i.e. for german de_DE.json). Yes that means the .txt becomes .json
 
-- Go to <the code of the language>.json in the above directory and copy everything you see in the box
+- Go to \<the code of the language\>.json in the above directory and copy everything you see in the box
 
 - Paste it into the newly created file
 
