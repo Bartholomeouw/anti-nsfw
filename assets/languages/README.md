@@ -1,34 +1,46 @@
-# How to be a Translator (on Anti-NSFW)
-Remake from MantaroBot Repository. []
+# How to be a Translator, Anti-NSFW version.
 
-- Create a GitHub Account
-  - I'd prefer you to also join [Anti-NSFW Lounge]() and contact ray#1337.
+**Before you translate, join the [Anti-NSFW Lounge](https://discord.gg/dkP9fwY) first, to make the developer keep in eyes on you if there was any update.**
 
-- Fork this repository.
+## Rules:
+- Keep the overall feeling of the bot consistent with the english version.
+- Don't "paste old translations" into your translation file. All new translations will be added at the top of the category, which means - you can just paste from en_US the missing ones until the one you have. (and at the bottom of the command in the case of new command strings)
+- Keep the translation clean.
+- Don't remove or "translate" anything remotely like %1$s, %2$s or %<number>$s. More info
+- Don't change the formatting marks (**, *, etc). If a word is **like this** translate it **como esto**, for example.
+- We're gonna review translation files before going to production, so no worries if something happens to go wrong we will point it out and assist you.
+- If you're unsure what a parameter is, you can try using the command or contact ray#1337.
+- You can contact ray#1337 on Discord if you're lost.
 
-![](https://i.ibb.co/Lv8PHqH/image.png)
-
-- Download [GitHub Desktop](https://desktop.github.com/)
-
-- Clone the Fork into GitHub Desktop.
-
-![](https://i.imgur.com/jpf8qmo.png) ![](https://i.imgur.com/KgxBlB2.png) ![](https://i.imgur.com/LPihVzy.png)
-
-- Browse the Local Folder of it and go to `\assets\languages`
-
-- When creating a new translation, copy the en_US.json and rename the copy to your language (i.e Indonesia (Indonesian) would be id_ID.json) otherwise edit the file you want to contribute to.
- 
+## If you are creating a language:
+- Create a text document anywhere on your computer and rename it to "<your lang code>.json" (i.e. for german de_DE.json). Yes that means the .txt becomes .json
   - When editing please use an actual code Editor to edit and not notepad. We suggest [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/).
-  
-- Replace all english sentences with the corresponding translation. Follow the guide below while translating.
-  1. Keep the overall feeling of the bot consistent with the english version.
-  2. Don't "paste old translations" into your translation file. All new translations will be added at the top of the category, which means you can just paste from en_US the missing ones until the one you have. (and at the bottom of the command in the case of new command strings)
-  3. Keep the translation clean.
-  4. Don't remove or "translate" anything remotely like {var}, {user}, or {var1}
-  5. Don't change the formatting marks (\*\*, \*, etc). If a word is \*\*like this*\\* translate it \*\*como esto\*\*, for example.
-  6. We're gonna review translation files before going to production, so no worries if something happens to go wrong we will point it out and assist you.
-  7. If you're unsure what a parameter is, you can try using the command or contact ray#1337.
-  8. You can contact Kodehawa#3457 on Discord if you're lost.
 
-- After you are done, send the changed file to Kodehawa#3457 on Discord for review.
-- Once reviewed and being given the ok, go back to your Github desktop client.
+- Go to en_US.json in the above directory and copy everything you see in the box
+
+- Paste it into the newly created file
+
+- Replace all english sentences with the corresponding translation. Follow the guide below while translating.
+
+- Once think the language is ready DM (Direct message) ray#1337 on Discord and tell him what language you translated to and upload the file along side it.
+
+## If you are adding to an existing langauge:
+
+- Create a text document anywhere on your computer and rename it to "<the code of the language>.json" (i.e. for german de_DE.json). Yes that means the .txt becomes .json
+
+- Go to <the code of the language>.json in the above directory and copy everything you see in the box
+
+- Paste it into the newly created file
+
+- Replace all still english sentences with the corresponding translation (Or correct exiting translations if applicable). Follow the guide below while translating.
+
+- Once think the language is ready DM (Direct message) ray#1337 on Discord and tell him what language you translated to and upload the file along side it
+
+## Any questions, by the way?
+If you can't DM ray#1337, add him as a friend. Please ping me in [Anti-NSFW Lounge](https://discord.gg/dkP9fwY) before adding so I know who you are.
+
+## Credits
+You can add yourself to this table while making a translation.
+| Language  | Translator                              |
+|-----------|-----------------------------------------|
+| Indonesia | [ray#1337](https://github.com/conver4y) |
