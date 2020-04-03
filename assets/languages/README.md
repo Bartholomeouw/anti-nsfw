@@ -24,7 +24,7 @@
 
 - Replace all english sentences with the corresponding translation. Follow the guide below while translating.
 
-- Once think the language is ready DM (Direct message) Kodehawa#3457 on Discord and tell him what language you translated to and upload the file along side it
+- Once think the language is ready DM (Direct message) ray#1337 on Discord and tell him what language you translated to and upload the file along side it
 
 ## If you are adding to an existing langauge:
 
@@ -36,7 +36,7 @@
 
 - Replace all still english sentences with the corresponding translation (Or correct exiting translations if applicable). Follow the guide below while translating.
 
-- Once think the language is ready DM (Direct message) Kodehawa#3457 on Discord and tell him what language you translated to and upload the file along side it
+- Once think the language is ready DM (Direct message) ray#1337 on Discord and tell him what language you translated to and upload the file along side it
 
 ## Any questions, by the way?
 If you can't DM ray#1337, add him as a friend. Please ping me in [Anti-NSFW Lounge](https://discord.gg/dkP9fwY) before adding so I know who you are.
