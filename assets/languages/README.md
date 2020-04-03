@@ -46,4 +46,4 @@ You can add yourself to this table while making a translation.
 | Language  |  Translator                              |
 |-----------|------------------------------------------|
 | Indonesia |  [ray#1337](https://github.com/conver4y) |
-| France    |  [Nenyoko Nero#9415(https://github.com/Nenyoko) |
+| France    |  [Nenyoko Nero#9415](https://github.com/Nenyoko) |
