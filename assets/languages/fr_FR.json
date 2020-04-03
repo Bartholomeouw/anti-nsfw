@@ -1,0 +1,89 @@
+{
+    "customtext": {
+        "default": "Ne postes pas de contenu NSFW ici !",
+        "default_successful": "Le message d'origine a été remplacé par le message d'avertissement personnalisé.",
+        "invalid_text": "Entrez le message d'avertissement personnalisé.",
+        "invalid_reset": "Le message d'avertissement personnalisé a **déjà** été réinitialisé.",
+        "character_limit": "Le nombre maximum de caractère est de 512.",
+        "change_successful": "Le message d'avertissement a été modifié en {var}",
+        "unknown_permissions": "{user} n'a pas les permissions de **Gérer le Serveur**."
+    },
+
+    "customprob": {
+        "unknown_permissions": "{user} n'a pas les permissions de **Gérer le Serveur**.",
+        "less_than_50": "Vous ne pouvez pas régler la sensibilité de l'Anti-NSFW à moins de 50 pourcent.",
+        "more_than_90": "Vous ne pouvez pas régler la sensibilité de l'Anti-NSFW à plus de 90 pourcent.",
+        "isnt_a_number": "Entrez un nombre correct, s'il vous plaît.",
+        "change_successful": "La sensibilité de l'Anti-NSFW a été définie sur **{var}%**",
+        "invalid_number": "Le numéro que vous avez entré existe déjà."
+    },
+
+    "punishment": {
+        "unknown_permissions": "{user} n'a pas les permissions de **Gérer le Serveur**.",
+        "default_successful": "La peine sur le serveur a été réinitialisé.",
+        "invalid_reset": "La peine sur le serveur est **déjà** désactivé.",
+        "isnt_a_number":"Entrez un nombre correct, s'il vous plaît.",
+        "limit_options_msg": "Options: 1 - 10 (message-maximum)",
+        "limit_options_action": "Options: 1: Expulsion | 2: Bannissement",
+        "change_successful": "La peine sur le serveur est définie en : [Action: {var1}] - [Limite (nombre-de-message-maximum): ${var2}]"
+    },
+
+    "faq": {
+        "title": "Questions populaires:",
+        "faq1_q": "Pourquoi ça ne fonctionne pas?",
+        "faq1_a": "Vérifiez les permissions du bot. Ne le faites pas dans un salon filtré par l'Anti-NFSW.",
+        "faq2_q": "Le bot ne l'a pas détecté.",
+        "faq2_a": "Nous travaillons pour améliorer le bot tous les jours! Vous pouvez toujours essayer un autre bot ^^. Ou peut-être que notre serveur est en panne. Si nécessaire, MP ray#1337.",
+        "faq3_q": "Est-ce que le salon log est filtré par Anti-NSFW?",
+        "faq3_a": "**Oui.**",
+        "faq4_q": "Comment puis-je définir un salon logs?",
+        "faq4_a": "Utilisez **a.log #channel**."
+    },
+
+    "help": {
+        "embed_description": "Utilisez **{prefix}help [commande] / @mention help [commande]** pour avoir plus d'informations détaillées concernant une commande.",
+        "noalias": "Pas d'alias fournis.",
+        "nousage": "Pas d'usage fournis.",
+        "noexample": "Pas d'exemple fournis.",
+        "seconds": "Secondes",
+        "invalid": "commande invalide.",
+        "commandname": "nom de la commande"
+    },
+
+    "log": {
+        "unknown_permissions": "{user} n'a pas la permission de **Gérer les salons**.",
+        "invalid_reset": "Il n'y a pas de salons à supprimer.",
+        "default_successful": "Le salon log a été effacé.",
+        "invalid_channel": "Entrez un salon, s'il vous plaît.",
+        "change_successful": "{var} sera utilisé pour afficher les actions des membres qui postent du contenu NSFW."
+    },
+
+    "prefix": {
+        "unknown_permissions": "n'a pas la permission de **Gérer le serveur**.",
+        "invalid_reset": "Le préfix est déjà par défaut.",
+        "invalid_prefix": "Entre le nouveau préfix.",
+        "change_successful": "Le préfix a été modifié en {var}"
+    },
+
+    "nsfwsession": {
+        "nudity_embed": "Prédictions de nudité (probabilité)",
+        "kicked": "{user} a été expulsé pour: **affichage de pornographie**.",
+        "banned": "{user} a été banni pour: **affichage de pornographie**.",
+        "postingporn": "affichage de pornographie",
+        "cooldown": "Calme toi! Tu dois attendre **{var}** secondes pour utiliser de nouveau la commande.",
+        "sender_log": "Expéditeur",
+        "channel_log": "Salon"
+    },
+
+    "description": {
+        "punishment": "Mettre une peine.",
+        "customtext": "Modifiez le texte d'avertissement personnalisé tel que **Ne postez pas de NSFW ici.**",
+        "customprob": "Change la sensibilité de l'Anti-NSFW.",
+        "faq": "Questions posées régulièrement à propos de l'Anti-NSFW.",
+        "help": "Affiche la liste des commandes du bot Anti-NSFW.",
+        "settings": "Affiche le paramétrage du bot sur le serveur.",
+        "stats": "Affiche les statistiques du bot Anti-NSFW.",
+        "prefix": "Change le préfix d'utilisation du bot Anti-NSFW sur le serveur.",
+        "log": "Affiche les logs dans un salon existant quand quelqu'un poste du NSFW."
+    }
+}
