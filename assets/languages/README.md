@@ -13,7 +13,9 @@
 - You can contact ray#1337 on Discord if you're lost.
 
 ## If you are creating a language:
-- Create a text document anywhere on your computer and rename it to "<your lang code>.json" (i.e. for german de_DE.json). Yes that means the .txt becomes .json
+
+- Create a text document anywhere on your computer and rename it to "\<your lang code\>.json" (i.e. for german de_DE.json). Yes that means the .txt becomes .json
+
   - When editing please use an actual code Editor to edit and not notepad. We suggest [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/).
 
 - Go to en_US.json in the above directory and copy everything you see in the box
@@ -22,7 +24,7 @@
 
 - Replace all english sentences with the corresponding translation. Follow the guide below while translating.
 
-- Once think the language is ready DM (Direct message) ray#1337 on Discord and tell him what language you translated to and upload the file along side it.
+- Once think the language is ready DM (Direct message) Kodehawa#3457 on Discord and tell him what language you translated to and upload the file along side it
 
 ## If you are adding to an existing langauge:
 
