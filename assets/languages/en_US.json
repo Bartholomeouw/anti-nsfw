@@ -33,7 +33,7 @@
         "faq1_q": "Why is it doesn't work?",
         "faq1_a": "Check the bot permissions/channels. Don't do it on channel filtered with NSFW options.",
         "faq2_q": "The bot was not detect it.",
-        "faq2_a": "We're humans, keep improving this. Maybe you can try another one. Or it might be our server is down. Please DM ray#1337 if necessary.",
+        "faq2_a": "We work to improve the bot every day! Or might be our server is down. [Join our support server for more information.](https://discord.gg/dkP9fwY)",
         "faq3_q": "Can the log channel filtered with NSFW?",
         "faq3_a": "**Yes.**",
         "faq4_q": "How I can set the moderation logs?",
@@ -59,7 +59,7 @@
     },
 
     "prefix": {
-        "unknown_permissions": "doesn't have **Manage Server** permissions.",
+        "unknown_permissions": "{user} doesn't have **Manage Server** permissions.",
         "invalid_reset": "The Server Prefix is already default.",
         "invalid_prefix": "Insert the prefix.",
         "change_successful": "Server Prefix changed to {var}"
