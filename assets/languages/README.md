@@ -43,6 +43,7 @@ If you can't DM ray#1337, add him as a friend. Please ping me in [Anti-NSFW Loun
 
 ## Credits
 You can add yourself to this table while making a translation.
-| Language  | Translator                              |
-|-----------|-----------------------------------------|
-| Indonesia | [ray#1337](https://github.com/conver4y) |
+| Language  |  Translator                              |
+|-----------|------------------------------------------|
+| Indonesia |  [ray#1337](https://github.com/conver4y) |
+| France    |  [Nenyoko Nero#9415](https://github.com/Nenyoko) |
