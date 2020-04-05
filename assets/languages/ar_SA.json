@@ -1,0 +1,41 @@
+{
+    "customtext": {
+        "default": "Don't post NSFW here, please.",
+        "default_successful": "Custom warning text has been restored to the original text.",
+        "invalid_text": "Insert the sentence.",
+        "invalid_reset": "Custom Warning Text has **already** been reset.",
+        "character_limit": "Maximum character is 512.",
+        "change_successful": "Custom warning text has been changed to {var}",
+        "unknown_permissions": "{user} doesn't have **Manage Server** permissions."
+    },
+
+    "customprob": {
+        "unknown_permissions": "{user} doesn't have **Manage Server** permissions.",
+        "less_than_50": "You can't set the NSFW sensitivity lower than 50 percent.",
+        "more_than_90": "You can't set the NSFW sensitivity more than 90 percent.",
+        "isnt_a_number": "Please input the number.",
+        "change_successful": "Custom NSFW sensitivity has been changed to **{var}%**",
+        "invalid_number": "The number you input is already existed."
+    },
+
+    "punishment": {
+        "unknown_permissions": "{user} doesn't have **Manage Server** permissions.",
+        "default_successful": "Server Punishment has been reset to Default.",
+        "invalid_reset": "Server Punishment was **already** disabled.",
+        "isnt_a_number":"Please input the number.",
+        "limit_options_msg": "Options: 1 - 10 (message)",
+        "limit_options_action": "Options: 1: Kick | 2: Ban",
+        "change_successful": "Server Punishment has been set to: [Action: {var1}] - [Limit (per-message): ${var2}]"
+    },
+
+    "faq": {
+        "title": "Popular Questions:",
+        "faq1_q": "Why is it doesn't work?",
+        "faq1_a": "Check the bot permissions/channels. Don't do it on channel filtered with NSFW options.",
+        "faq2_q": "The bot was not detect it.",
+        "faq2_a": "We work to improve the bot every day! Or might be our server is down. [Join our support server for more information.](https://discord.gg/dkP9fwY)",
+        "faq3_q": "Can the log channel filtered with NSFW?",
+        "faq3_a": "**Yes.**",
+        "faq4_q": "How I can set the moderation logs?",
+        "faq4_a": "Use **a.log #channel**."
+    },
